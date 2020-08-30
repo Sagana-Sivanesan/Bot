@@ -13,4 +13,4 @@
 * Fluency in java, Eclipse IDE
 * Object-Oriented programming
 * Fluency in Terminal commands
-* Ability to navigate through github
+* Navigation through github
