@@ -1,6 +1,6 @@
 # Bot
 
-## How To Run:
+## Installation:
 1. Download folder into your machine<br/>
    -> Download zipped file into your preferred location<br/>
 2. Navigate the folder using your Terminal<br/>
