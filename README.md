@@ -13,4 +13,5 @@
 * Fluency in java, Eclipse IDE
 * Object-Oriented programming
 * Fluency in Terminal commands
+* Proper code-writing style and syntax
 * Navigation through github
